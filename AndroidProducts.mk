@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/evolution_begonia.mk
+    $(LOCAL_DIR)/legion_begonia.mk
