@@ -46,4 +46,4 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 # LegionOS Device Maintainers
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.maintainer.name=Paul
+    ro.maintainer.name=Unknow
